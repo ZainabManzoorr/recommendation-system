@@ -1,5 +1,5 @@
 from fastapi import APIRouter,HTTPException
-from pydantic import BaseModel,Field
+from pydantic import BaseModel,Field, validator
 import numpy as np
 import joblib
 from supabase import client, create_client
@@ -27,6 +27,29 @@ class MeasurementRequest(BaseModel):
     hips: float = Field(..., gt=30, lt=200, description="Hip circumference in inches")
     sleeve: float = Field(..., gt=30, lt=100, description="Sleeve length in inches")
 
+    @validator("height")
+    def validate_height(cls, v):
+        if not (50 < v < 300):
+            raise ValueError("Height must be between 50cm and 300cm")
+        return v
+
+    @validator("weight")
+    def validate_weight(cls, v):
+        if not (20 < v < 300):
+            raise ValueError("Weight must be between 20kg and 300kg")
+        return v
+
+    @validator("chest", "waist", "shoulder", "hips")
+    def validate_body_circumference(cls, v, field):
+        if not (30 < v < 200):
+            raise ValueError(f"{field.name.capitalize()} must be between 30 and 200 inches")
+        return v
+
+    @validator("sleeve")
+    def validate_sleeve(cls, v):
+        if not (30 < v < 100):
+            raise ValueError("Sleeve length must be between 30 and 100 inches")
+        return v
 
 router = APIRouter()
 
