@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+joblib
+numpy
+pydantic
+supabase
+scikit-learn
+opencv-python
+deepface

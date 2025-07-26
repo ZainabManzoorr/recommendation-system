@@ -1,0 +1,201 @@
+name,description,category,type,style_tag,cut_type,weather_suitability,gender,color,image_url,suitable_body_types
+Midi Skirt,Warm turtleneck style,tops,pants,trendy,fitted,spring,female,['red'],https://example.com/images/item_1.jpg,['inverted_triangle']
+Maxi Dress,Flowy mid-length skirt,jumpsuits,pants,trendy,fitted,spring,male,['pink'],https://example.com/images/item_2.jpg,['pear']
+Skinny Fit Jeans,Flattering dress with waist tie,jumpsuits,jacket,chic,fitted,fall,male,"['red', 'gray']",https://example.com/images/item_3.jpg,['apple']
+Denim Jacket,Relaxed fit with utility pockets,dresses,dress,casual,fitted,spring,male,['red'],https://example.com/images/item_4.jpg,"['rectangle', 'hourglass']"
+Cardigan Sweater,Casual one-piece for everyday wear,jumpsuits,shirt,vintage,oversized,summer,unisex,"['red', 'pink', 'beige']",https://example.com/images/item_5.jpg,['inverted_triangle']
+Skinny Fit Jeans,High-rise trousers with wide leg,outerwear,jumpsuit,formal,relaxed,fall,male,"['beige', 'purple', 'green']",https://example.com/images/item_6.jpg,"['apple', 'rectangle', 'hourglass']"
+Cardigan Sweater,Short length trendy top,jumpsuits,blouse,casual,straight,summer,male,"['white', 'green']",https://example.com/images/item_7.jpg,['inverted_triangle']
+Linen Shirt,Open front soft knit sweater,jumpsuits,dress,minimalist,flared,fall,unisex,"['pink', 'purple']",https://example.com/images/item_8.jpg,"['hourglass', 'apple', 'rectangle']"
+Boho Floral Blouse,Comfortable cotton shorts,jumpsuits,dress,trendy,oversized,spring,female,['pink'],https://example.com/images/item_9.jpg,"['inverted_triangle', 'apple']"
+Peplum Top,Sleeveless casual tank,bottoms,dress,casual,A-line,fall,female,"['green', 'navy']",https://example.com/images/item_10.jpg,"['hourglass', 'rectangle', 'inverted_triangle']"
+Wide-Leg Trousers,Breathable button-up for summer days,dresses,dress,chic,relaxed,spring,female,"['blue', 'black', 'green']",https://example.com/images/item_11.jpg,"['pear', 'hourglass']"
+Peplum Top,Comfortable cotton shorts,tops,skirt,street,oversized,summer,female,"['navy', 'purple']",https://example.com/images/item_12.jpg,"['pear', 'rectangle']"
+Boho Floral Blouse,Professional office skirt,tops,pants,formal,relaxed,fall,unisex,['gray'],https://example.com/images/item_13.jpg,"['inverted_triangle', 'apple', 'rectangle']"
+Sweat Shorts,Casual cotton V-neck,outerwear,shirt,boho,A-line,winter,male,"['navy', 'gray', 'blue']",https://example.com/images/item_14.jpg,"['inverted_triangle', 'hourglass', 'pear']"
+Oversized Hoodie,Classic blue jacket with buttons,outerwear,skirt,minimalist,fitted,spring,unisex,"['blue', 'green', 'red']",https://example.com/images/item_15.jpg,"['rectangle', 'hourglass', 'pear']"
+Sweat Shorts,Denim jeans with narrow fit,bottoms,blouse,vintage,flared,spring,male,['black'],https://example.com/images/item_16.jpg,"['inverted_triangle', 'apple', 'pear']"
+Pencil Skirt,Stylish cropped bomber,dresses,blouse,boho,A-line,winter,unisex,"['pink', 'red', 'navy']",https://example.com/images/item_17.jpg,"['pear', 'apple']"
+Turtleneck Sweater,Warm turtleneck style,outerwear,jeans,boho,flared,spring,female,['navy'],https://example.com/images/item_18.jpg,"['rectangle', 'inverted_triangle']"
+Crop Top,High-rise trousers with wide leg,bottoms,pants,boho,flared,fall,female,['navy'],https://example.com/images/item_19.jpg,"['apple', 'inverted_triangle', 'rectangle']"
+Crop Top,Casual cotton V-neck,tops,pants,chic,flared,summer,unisex,['red'],https://example.com/images/item_20.jpg,"['inverted_triangle', 'rectangle']"
+Sweat Shorts,Casual one-piece for everyday wear,outerwear,hoodie,trendy,straight,fall,female,"['pink', 'black', 'navy']",https://example.com/images/item_21.jpg,['inverted_triangle']
+V-Neck Tee,Short length trendy top,jumpsuits,jacket,trendy,relaxed,spring,male,"['beige', 'blue']",https://example.com/images/item_22.jpg,['apple']
+Wrap Dress,Casual one-piece for everyday wear,dresses,dress,trendy,flared,spring,unisex,"['navy', 'red', 'beige']",https://example.com/images/item_23.jpg,['hourglass']
+Skinny Fit Jeans,Fitted at the waist with flare below,tops,skirt,casual,flared,spring,female,"['beige', 'blue']",https://example.com/images/item_24.jpg,"['hourglass', 'inverted_triangle', 'apple']"
+Sweat Shorts,Short length trendy top,outerwear,jumpsuit,vintage,oversized,summer,male,"['red', 'gray']",https://example.com/images/item_25.jpg,"['hourglass', 'rectangle', 'apple']"
+Bomber Jacket,Flowy mid-length skirt,bottoms,dress,vintage,fitted,spring,female,['purple'],https://example.com/images/item_26.jpg,['hourglass']
+Skinny Fit Jeans,Short length trendy top,jumpsuits,blouse,trendy,relaxed,fall,unisex,"['purple', 'black']",https://example.com/images/item_27.jpg,['hourglass']
+Denim Jacket,Sleeveless casual tank,dresses,jumpsuit,casual,flared,summer,female,"['pink', 'black', 'white']",https://example.com/images/item_28.jpg,"['pear', 'rectangle', 'inverted_triangle']"
+Cardigan Sweater,Open front soft knit sweater,bottoms,shirt,vintage,A-line,winter,female,"['beige', 'navy']",https://example.com/images/item_29.jpg,"['pear', 'apple', 'hourglass']"
+Wide-Leg Trousers,Casual cotton V-neck,bottoms,shirt,minimalist,flared,winter,female,"['blue', 'green', 'pink']",https://example.com/images/item_30.jpg,"['rectangle', 'pear', 'apple']"
+Sweat Shorts,Casual one-piece for everyday wear,bottoms,jeans,formal,flared,summer,female,"['green', 'red']",https://example.com/images/item_31.jpg,"['rectangle', 'apple']"
+Denim Jacket,Casual one-piece for everyday wear,bottoms,pants,trendy,A-line,summer,female,['white'],https://example.com/images/item_32.jpg,"['inverted_triangle', 'pear', 'hourglass']"
+Sweat Shorts,High-rise trousers with wide leg,bottoms,dress,boho,A-line,spring,female,['red'],https://example.com/images/item_33.jpg,"['rectangle', 'pear']"
+Crop Top,Open front soft knit sweater,outerwear,dress,formal,flared,summer,female,"['pink', 'beige', 'navy']",https://example.com/images/item_34.jpg,"['pear', 'hourglass']"
+Skinny Fit Jeans,Flattering dress with waist tie,bottoms,hoodie,street,fitted,fall,female,"['white', 'black']",https://example.com/images/item_35.jpg,"['hourglass', 'apple']"
+Bomber Jacket,Cozy pullover with front pockets,tops,blouse,boho,flared,fall,male,"['beige', 'pink', 'black']",https://example.com/images/item_36.jpg,"['apple', 'hourglass']"
+Crop Top,Cozy pullover with front pockets,jumpsuits,jeans,vintage,A-line,winter,male,"['pink', 'purple', 'beige']",https://example.com/images/item_37.jpg,['pear']
+Bomber Jacket,Sleeveless casual tank,jumpsuits,jeans,chic,flared,winter,unisex,"['white', 'purple']",https://example.com/images/item_38.jpg,['hourglass']
+Cargo Pants,Warm turtleneck style,outerwear,pants,formal,oversized,spring,female,"['beige', 'white', 'black']",https://example.com/images/item_39.jpg,"['apple', 'rectangle', 'hourglass']"
+Boho Floral Blouse,Professional office skirt,tops,blouse,street,flared,spring,female,"['navy', 'white']",https://example.com/images/item_40.jpg,"['pear', 'hourglass', 'inverted_triangle']"
+Denim Jacket,Fitted at the waist with flare below,dresses,pants,street,relaxed,fall,male,"['black', 'gray', 'purple']",https://example.com/images/item_41.jpg,['hourglass']
+Cardigan Sweater,Professional office skirt,outerwear,hoodie,vintage,oversized,winter,unisex,"['pink', 'black']",https://example.com/images/item_42.jpg,"['rectangle', 'hourglass', 'pear']"
+Maxi Dress,Comfortable cotton shorts,outerwear,skirt,chic,A-line,fall,unisex,"['pink', 'purple', 'navy']",https://example.com/images/item_43.jpg,"['hourglass', 'inverted_triangle', 'pear']"
+Linen Shirt,Cozy pullover with front pockets,bottoms,shirt,formal,straight,summer,male,"['navy', 'gray', 'white']",https://example.com/images/item_44.jpg,"['inverted_triangle', 'apple', 'rectangle']"
+Peplum Top,Classic blue jacket with buttons,outerwear,shirt,casual,straight,summer,unisex,"['white', 'pink', 'navy']",https://example.com/images/item_45.jpg,"['hourglass', 'inverted_triangle', 'pear']"
+Sweat Shorts,Lightweight top with floral prints,outerwear,hoodie,chic,A-line,summer,female,"['red', 'pink', 'green']",https://example.com/images/item_46.jpg,"['inverted_triangle', 'hourglass', 'apple']"
+Sweat Shorts,Classic blue jacket with buttons,outerwear,dress,casual,relaxed,winter,unisex,['beige'],https://example.com/images/item_47.jpg,['rectangle']
+Boho Floral Blouse,Flowy mid-length skirt,dresses,jeans,vintage,straight,spring,female,['white'],https://example.com/images/item_48.jpg,['pear']
+Midi Skirt,Breathable button-up for summer days,jumpsuits,dress,formal,A-line,summer,unisex,"['red', 'blue']",https://example.com/images/item_49.jpg,['pear']
+Turtleneck Sweater,Flowy mid-length skirt,dresses,jacket,minimalist,oversized,summer,female,"['blue', 'navy']",https://example.com/images/item_50.jpg,"['inverted_triangle', 'apple']"
+Maxi Dress,Short length trendy top,tops,jeans,casual,flared,winter,male,"['blue', 'pink']",https://example.com/images/item_51.jpg,"['hourglass', 'pear', 'rectangle']"
+Oversized Hoodie,Casual cotton V-neck,bottoms,dress,vintage,A-line,fall,female,"['pink', 'beige']",https://example.com/images/item_52.jpg,"['inverted_triangle', 'hourglass', 'rectangle']"
+Relaxed Jumpsuit,Professional office skirt,dresses,jumpsuit,casual,straight,summer,unisex,['blue'],https://example.com/images/item_53.jpg,"['pear', 'rectangle', 'inverted_triangle']"
+Relaxed Jumpsuit,Breathable button-up for summer days,tops,pants,minimalist,A-line,winter,female,"['white', 'black', 'blue']",https://example.com/images/item_54.jpg,"['pear', 'apple']"
+Pencil Skirt,Flowy mid-length skirt,dresses,top,vintage,straight,fall,female,['purple'],https://example.com/images/item_55.jpg,['inverted_triangle']
+Turtleneck Sweater,Casual one-piece for everyday wear,tops,hoodie,minimalist,A-line,summer,unisex,['blue'],https://example.com/images/item_56.jpg,['inverted_triangle']
+Skinny Fit Jeans,Cozy pullover with front pockets,outerwear,pants,chic,fitted,summer,unisex,"['black', 'gray', 'red']",https://example.com/images/item_57.jpg,"['pear', 'inverted_triangle']"
+V-Neck Tee,Classic blue jacket with buttons,tops,dress,minimalist,A-line,winter,female,"['blue', 'purple']",https://example.com/images/item_58.jpg,['inverted_triangle']
+Pencil Skirt,Fitted at the waist with flare below,dresses,shirt,vintage,flared,fall,male,"['gray', 'pink', 'red']",https://example.com/images/item_59.jpg,"['apple', 'pear', 'rectangle']"
+Relaxed Jumpsuit,Casual one-piece for everyday wear,dresses,jumpsuit,chic,flared,winter,male,['green'],https://example.com/images/item_60.jpg,"['inverted_triangle', 'pear']"
+Crop Top,Denim jeans with narrow fit,dresses,jumpsuit,trendy,flared,spring,male,"['black', 'pink']",https://example.com/images/item_61.jpg,"['rectangle', 'hourglass', 'apple']"
+Midi Skirt,High-rise trousers with wide leg,jumpsuits,top,minimalist,oversized,winter,female,"['navy', 'red']",https://example.com/images/item_62.jpg,['rectangle']
+Midi Skirt,Full-length dress for formal wear,outerwear,top,minimalist,oversized,summer,female,"['pink', 'gray']",https://example.com/images/item_63.jpg,"['pear', 'rectangle', 'apple']"
+Cargo Pants,Casual cotton V-neck,dresses,skirt,street,oversized,spring,female,['black'],https://example.com/images/item_64.jpg,"['rectangle', 'inverted_triangle']"
+Peplum Top,Sleeveless casual tank,dresses,skirt,street,fitted,winter,unisex,['white'],https://example.com/images/item_65.jpg,['hourglass']
+Bomber Jacket,Denim jeans with narrow fit,dresses,dress,formal,A-line,winter,male,"['gray', 'blue', 'white']",https://example.com/images/item_66.jpg,"['rectangle', 'apple']"
+Midi Skirt,Relaxed fit with utility pockets,jumpsuits,dress,vintage,fitted,winter,female,['white'],https://example.com/images/item_67.jpg,['apple']
+Crop Top,Fitted at the waist with flare below,dresses,blouse,street,A-line,winter,female,"['navy', 'purple', 'beige']",https://example.com/images/item_68.jpg,"['apple', 'rectangle', 'hourglass']"
+V-Neck Tee,Warm turtleneck style,outerwear,jeans,formal,flared,spring,unisex,['red'],https://example.com/images/item_69.jpg,['hourglass']
+Wrap Dress,Cozy pullover with front pockets,outerwear,dress,chic,oversized,fall,male,"['navy', 'black']",https://example.com/images/item_70.jpg,"['inverted_triangle', 'rectangle']"
+Midi Skirt,Relaxed fit with utility pockets,jumpsuits,jumpsuit,trendy,flared,fall,male,['pink'],https://example.com/images/item_71.jpg,"['rectangle', 'inverted_triangle']"
+Peplum Top,Breathable button-up for summer days,bottoms,pants,formal,A-line,fall,unisex,['beige'],https://example.com/images/item_72.jpg,['pear']
+Boho Floral Blouse,Open front soft knit sweater,bottoms,skirt,formal,fitted,spring,unisex,['pink'],https://example.com/images/item_73.jpg,['apple']
+Maxi Dress,Short length trendy top,dresses,shirt,chic,relaxed,winter,female,"['blue', 'pink']",https://example.com/images/item_74.jpg,"['apple', 'hourglass', 'rectangle']"
+Crop Top,Denim jeans with narrow fit,tops,shirt,trendy,fitted,summer,female,['white'],https://example.com/images/item_75.jpg,"['apple', 'inverted_triangle']"
+Wide-Leg Trousers,Short length trendy top,outerwear,dress,casual,flared,winter,male,['purple'],https://example.com/images/item_76.jpg,['apple']
+Sweat Shorts,Full-length dress for formal wear,bottoms,pants,casual,flared,winter,unisex,"['pink', 'green']",https://example.com/images/item_77.jpg,"['rectangle', 'apple', 'pear']"
+Crop Top,Stylish cropped bomber,dresses,hoodie,trendy,straight,spring,male,['pink'],https://example.com/images/item_78.jpg,"['hourglass', 'apple', 'inverted_triangle']"
+Crop Top,Comfortable cotton shorts,tops,jeans,trendy,A-line,summer,male,"['black', 'blue', 'green']",https://example.com/images/item_79.jpg,"['pear', 'inverted_triangle']"
+Pencil Skirt,Professional office skirt,outerwear,jeans,formal,straight,summer,female,"['black', 'beige']",https://example.com/images/item_80.jpg,"['apple', 'pear']"
+Linen Shirt,Stylish cropped bomber,tops,top,formal,straight,summer,female,"['beige', 'purple', 'red']",https://example.com/images/item_81.jpg,['rectangle']
+Oversized Hoodie,Professional office skirt,bottoms,jacket,casual,oversized,fall,unisex,['gray'],https://example.com/images/item_82.jpg,"['inverted_triangle', 'apple']"
+Cargo Pants,Relaxed fit with utility pockets,dresses,jumpsuit,chic,fitted,spring,male,['gray'],https://example.com/images/item_83.jpg,"['hourglass', 'pear', 'rectangle']"
+Crop Top,Breathable button-up for summer days,tops,shirt,casual,straight,spring,female,"['beige', 'pink', 'black']",https://example.com/images/item_84.jpg,"['inverted_triangle', 'rectangle', 'apple']"
+Bomber Jacket,Full-length dress for formal wear,dresses,hoodie,trendy,flared,winter,male,['navy'],https://example.com/images/item_85.jpg,['apple']
+Tank Top,Full-length dress for formal wear,tops,jacket,formal,A-line,fall,unisex,"['beige', 'blue']",https://example.com/images/item_86.jpg,"['pear', 'inverted_triangle']"
+Maxi Dress,Casual one-piece for everyday wear,dresses,top,formal,oversized,spring,male,"['purple', 'beige', 'blue']",https://example.com/images/item_87.jpg,['hourglass']
+Pencil Skirt,Fitted at the waist with flare below,bottoms,jeans,chic,flared,fall,male,['blue'],https://example.com/images/item_88.jpg,"['apple', 'inverted_triangle', 'hourglass']"
+Wrap Dress,Flowy mid-length skirt,tops,blouse,boho,oversized,spring,male,"['blue', 'red']",https://example.com/images/item_89.jpg,"['apple', 'hourglass', 'rectangle']"
+Bomber Jacket,Casual cotton V-neck,tops,jeans,casual,straight,fall,male,"['white', 'gray', 'pink']",https://example.com/images/item_90.jpg,"['inverted_triangle', 'hourglass', 'pear']"
+Relaxed Jumpsuit,Open front soft knit sweater,tops,hoodie,vintage,A-line,spring,male,['red'],https://example.com/images/item_91.jpg,"['pear', 'hourglass']"
+Denim Jacket,Full-length dress for formal wear,dresses,skirt,formal,relaxed,summer,male,"['beige', 'purple', 'blue']",https://example.com/images/item_92.jpg,"['pear', 'rectangle', 'apple']"
+Boho Floral Blouse,Comfortable cotton shorts,outerwear,blouse,vintage,fitted,summer,unisex,['green'],https://example.com/images/item_93.jpg,"['apple', 'hourglass', 'inverted_triangle']"
+Bomber Jacket,Lightweight top with floral prints,tops,blouse,casual,A-line,summer,male,['green'],https://example.com/images/item_94.jpg,"['inverted_triangle', 'pear']"
+Denim Jacket,Lightweight top with floral prints,tops,dress,street,straight,summer,male,"['white', 'black', 'gray']",https://example.com/images/item_95.jpg,['pear']
+Relaxed Jumpsuit,Breathable button-up for summer days,outerwear,hoodie,minimalist,fitted,summer,male,"['beige', 'green']",https://example.com/images/item_96.jpg,"['pear', 'apple']"
+Denim Jacket,Relaxed fit with utility pockets,bottoms,pants,formal,A-line,spring,unisex,['blue'],https://example.com/images/item_97.jpg,['apple']
+Boho Floral Blouse,Lightweight top with floral prints,outerwear,jacket,street,flared,spring,male,['blue'],https://example.com/images/item_98.jpg,"['rectangle', 'apple']"
+Maxi Dress,Flowy mid-length skirt,jumpsuits,jacket,chic,flared,winter,male,['blue'],https://example.com/images/item_99.jpg,['pear']
+Wide-Leg Trousers,Casual one-piece for everyday wear,jumpsuits,jeans,boho,relaxed,summer,male,"['green', 'red']",https://example.com/images/item_100.jpg,"['apple', 'hourglass']"
+Skinny Fit Jeans,Open front soft knit sweater,dresses,jeans,boho,flared,summer,male,"['white', 'red', 'green']",https://example.com/images/item_101.jpg,"['rectangle', 'apple', 'inverted_triangle']"
+V-Neck Tee,Lightweight top with floral prints,outerwear,pants,street,A-line,summer,male,"['beige', 'purple']",https://example.com/images/item_102.jpg,['inverted_triangle']
+Midi Skirt,Open front soft knit sweater,tops,jumpsuit,minimalist,flared,fall,male,"['gray', 'purple', 'white']",https://example.com/images/item_103.jpg,"['inverted_triangle', 'hourglass']"
+Relaxed Jumpsuit,Lightweight top with floral prints,outerwear,blouse,trendy,flared,winter,male,"['pink', 'blue']",https://example.com/images/item_104.jpg,"['hourglass', 'rectangle', 'pear']"
+Sweat Shorts,Professional office skirt,bottoms,top,formal,relaxed,summer,unisex,"['pink', 'navy']",https://example.com/images/item_105.jpg,['hourglass']
+Relaxed Jumpsuit,Casual cotton V-neck,jumpsuits,blouse,chic,flared,summer,female,"['black', 'white', 'pink']",https://example.com/images/item_106.jpg,"['apple', 'inverted_triangle', 'hourglass']"
+Midi Skirt,Fitted at the waist with flare below,bottoms,jumpsuit,street,A-line,summer,unisex,['blue'],https://example.com/images/item_107.jpg,"['hourglass', 'inverted_triangle', 'pear']"
+Sweat Shorts,Cozy pullover with front pockets,bottoms,jacket,trendy,straight,spring,male,"['black', 'white', 'navy']",https://example.com/images/item_108.jpg,"['hourglass', 'inverted_triangle', 'pear']"
+Tank Top,Relaxed fit with utility pockets,jumpsuits,pants,chic,relaxed,spring,unisex,"['red', 'navy', 'black']",https://example.com/images/item_109.jpg,"['apple', 'pear', 'hourglass']"
+V-Neck Tee,Cozy pullover with front pockets,dresses,jumpsuit,casual,fitted,fall,male,"['pink', 'purple', 'green']",https://example.com/images/item_110.jpg,"['inverted_triangle', 'rectangle']"
+Wide-Leg Trousers,Lightweight top with floral prints,tops,dress,chic,oversized,winter,unisex,"['blue', 'beige']",https://example.com/images/item_111.jpg,"['inverted_triangle', 'rectangle']"
+Turtleneck Sweater,Classic blue jacket with buttons,tops,skirt,vintage,fitted,spring,unisex,"['green', 'red']",https://example.com/images/item_112.jpg,"['rectangle', 'pear']"
+Wrap Dress,Warm turtleneck style,dresses,dress,formal,A-line,spring,female,"['blue', 'black', 'gray']",https://example.com/images/item_113.jpg,['inverted_triangle']
+Peplum Top,Sleeveless casual tank,bottoms,jumpsuit,boho,flared,fall,unisex,"['pink', 'black']",https://example.com/images/item_114.jpg,"['apple', 'rectangle', 'inverted_triangle']"
+Cargo Pants,High-rise trousers with wide leg,outerwear,jeans,minimalist,straight,spring,unisex,"['blue', 'white']",https://example.com/images/item_115.jpg,['rectangle']
+V-Neck Tee,Breathable button-up for summer days,outerwear,blouse,chic,straight,winter,unisex,"['beige', 'black']",https://example.com/images/item_116.jpg,['pear']
+Cardigan Sweater,Sleeveless casual tank,tops,jumpsuit,vintage,A-line,summer,female,"['blue', 'pink', 'navy']",https://example.com/images/item_117.jpg,['rectangle']
+Boho Floral Blouse,Comfortable cotton shorts,jumpsuits,hoodie,minimalist,oversized,winter,male,['green'],https://example.com/images/item_118.jpg,['rectangle']
+Midi Skirt,Full-length dress for formal wear,bottoms,dress,minimalist,relaxed,fall,male,"['blue', 'navy']",https://example.com/images/item_119.jpg,"['apple', 'hourglass']"
+Relaxed Jumpsuit,Professional office skirt,tops,hoodie,trendy,flared,winter,unisex,"['beige', 'navy']",https://example.com/images/item_120.jpg,"['hourglass', 'apple', 'rectangle']"
+Denim Jacket,Flattering dress with waist tie,jumpsuits,dress,boho,straight,summer,unisex,"['red', 'blue', 'black']",https://example.com/images/item_121.jpg,['apple']
+Turtleneck Sweater,Stylish cropped bomber,outerwear,jeans,chic,fitted,summer,female,"['pink', 'purple']",https://example.com/images/item_122.jpg,"['apple', 'hourglass']"
+Cargo Pants,Warm turtleneck style,outerwear,skirt,trendy,relaxed,winter,male,"['red', 'black', 'green']",https://example.com/images/item_123.jpg,"['apple', 'hourglass']"
+Denim Jacket,Breathable button-up for summer days,outerwear,hoodie,chic,straight,winter,unisex,"['navy', 'blue', 'purple']",https://example.com/images/item_124.jpg,['apple']
+Linen Shirt,Casual cotton V-neck,outerwear,top,minimalist,A-line,spring,male,['navy'],https://example.com/images/item_125.jpg,"['hourglass', 'rectangle']"
+Midi Skirt,Flowy mid-length skirt,dresses,jumpsuit,minimalist,flared,fall,female,['pink'],https://example.com/images/item_126.jpg,['hourglass']
+Denim Jacket,Breathable button-up for summer days,tops,blouse,formal,flared,summer,female,"['green', 'pink']",https://example.com/images/item_127.jpg,['apple']
+Peplum Top,Lightweight top with floral prints,jumpsuits,jacket,minimalist,flared,fall,female,"['green', 'black']",https://example.com/images/item_128.jpg,"['apple', 'inverted_triangle', 'rectangle']"
+Pencil Skirt,Lightweight top with floral prints,bottoms,skirt,street,flared,winter,male,['red'],https://example.com/images/item_129.jpg,"['pear', 'rectangle', 'inverted_triangle']"
+Bomber Jacket,Cozy pullover with front pockets,dresses,jacket,chic,oversized,summer,female,"['navy', 'white', 'green']",https://example.com/images/item_130.jpg,['hourglass']
+Crop Top,Flattering dress with waist tie,outerwear,hoodie,casual,relaxed,spring,male,"['navy', 'beige', 'black']",https://example.com/images/item_131.jpg,"['inverted_triangle', 'pear']"
+Cardigan Sweater,Flattering dress with waist tie,bottoms,dress,minimalist,fitted,fall,male,['green'],https://example.com/images/item_132.jpg,"['inverted_triangle', 'pear', 'rectangle']"
+Maxi Dress,Flowy mid-length skirt,bottoms,pants,trendy,A-line,spring,unisex,"['purple', 'red']",https://example.com/images/item_133.jpg,"['apple', 'pear', 'hourglass']"
+Oversized Hoodie,Short length trendy top,bottoms,shirt,trendy,fitted,spring,unisex,"['gray', 'pink', 'navy']",https://example.com/images/item_134.jpg,"['hourglass', 'rectangle']"
+Crop Top,Relaxed fit with utility pockets,jumpsuits,hoodie,chic,oversized,winter,female,"['green', 'blue', 'pink']",https://example.com/images/item_135.jpg,"['apple', 'inverted_triangle', 'rectangle']"
+Tank Top,Fitted at the waist with flare below,outerwear,skirt,vintage,fitted,winter,unisex,['navy'],https://example.com/images/item_136.jpg,"['pear', 'apple', 'rectangle']"
+Maxi Dress,Classic blue jacket with buttons,jumpsuits,jeans,street,A-line,winter,unisex,"['purple', 'pink']",https://example.com/images/item_137.jpg,"['hourglass', 'inverted_triangle', 'apple']"
+Cargo Pants,Flattering dress with waist tie,tops,blouse,formal,straight,fall,unisex,['pink'],https://example.com/images/item_138.jpg,"['pear', 'hourglass']"
+Cardigan Sweater,Lightweight top with floral prints,bottoms,hoodie,minimalist,relaxed,winter,unisex,['blue'],https://example.com/images/item_139.jpg,"['rectangle', 'inverted_triangle']"
+Wide-Leg Trousers,Relaxed fit with utility pockets,dresses,pants,formal,A-line,spring,male,['black'],https://example.com/images/item_140.jpg,['rectangle']
+Wrap Dress,Open front soft knit sweater,tops,blouse,street,fitted,spring,female,['white'],https://example.com/images/item_141.jpg,"['pear', 'inverted_triangle']"
+Relaxed Jumpsuit,Professional office skirt,dresses,hoodie,street,fitted,summer,male,"['white', 'red']",https://example.com/images/item_142.jpg,"['apple', 'rectangle']"
+Turtleneck Sweater,Denim jeans with narrow fit,outerwear,top,minimalist,oversized,summer,unisex,"['red', 'gray']",https://example.com/images/item_143.jpg,"['inverted_triangle', 'apple']"
+Bomber Jacket,Full-length dress for formal wear,tops,jeans,casual,A-line,winter,unisex,"['blue', 'black', 'pink']",https://example.com/images/item_144.jpg,"['apple', 'hourglass']"
+Crop Top,Flattering dress with waist tie,jumpsuits,dress,street,A-line,spring,female,"['beige', 'gray']",https://example.com/images/item_145.jpg,['apple']
+Linen Shirt,Professional office skirt,bottoms,dress,formal,oversized,fall,male,['gray'],https://example.com/images/item_146.jpg,['pear']
+Maxi Dress,Casual cotton V-neck,bottoms,blouse,minimalist,relaxed,summer,male,['black'],https://example.com/images/item_147.jpg,"['pear', 'inverted_triangle']"
+Peplum Top,Casual one-piece for everyday wear,outerwear,jumpsuit,casual,straight,spring,unisex,['gray'],https://example.com/images/item_148.jpg,['hourglass']
+Denim Jacket,Open front soft knit sweater,tops,shirt,chic,oversized,fall,male,['pink'],https://example.com/images/item_149.jpg,['inverted_triangle']
+Cargo Pants,Denim jeans with narrow fit,outerwear,shirt,formal,straight,winter,male,"['beige', 'navy']",https://example.com/images/item_150.jpg,"['inverted_triangle', 'hourglass']"
+Skinny Fit Jeans,Relaxed fit with utility pockets,jumpsuits,jeans,casual,oversized,fall,unisex,"['blue', 'green', 'gray']",https://example.com/images/item_151.jpg,"['rectangle', 'pear']"
+Cargo Pants,Cozy pullover with front pockets,dresses,jacket,street,A-line,fall,female,"['blue', 'purple', 'beige']",https://example.com/images/item_152.jpg,"['apple', 'inverted_triangle']"
+Oversized Hoodie,High-rise trousers with wide leg,bottoms,jacket,casual,A-line,fall,female,['white'],https://example.com/images/item_153.jpg,"['apple', 'inverted_triangle', 'pear']"
+Oversized Hoodie,Fitted at the waist with flare below,jumpsuits,hoodie,casual,oversized,spring,unisex,"['pink', 'beige', 'gray']",https://example.com/images/item_154.jpg,['hourglass']
+Relaxed Jumpsuit,Lightweight top with floral prints,jumpsuits,skirt,chic,oversized,fall,female,"['blue', 'purple']",https://example.com/images/item_155.jpg,"['apple', 'rectangle', 'inverted_triangle']"
+Skinny Fit Jeans,Lightweight top with floral prints,bottoms,top,boho,flared,spring,male,"['white', 'blue']",https://example.com/images/item_156.jpg,['hourglass']
+Wrap Dress,Casual cotton V-neck,jumpsuits,top,boho,relaxed,summer,unisex,['blue'],https://example.com/images/item_157.jpg,['inverted_triangle']
+Turtleneck Sweater,Open front soft knit sweater,dresses,shirt,chic,fitted,fall,female,['white'],https://example.com/images/item_158.jpg,"['pear', 'inverted_triangle', 'hourglass']"
+Oversized Hoodie,Full-length dress for formal wear,bottoms,top,minimalist,fitted,summer,female,"['beige', 'navy']",https://example.com/images/item_159.jpg,['rectangle']
+Cardigan Sweater,Relaxed fit with utility pockets,dresses,jeans,casual,straight,spring,female,['red'],https://example.com/images/item_160.jpg,"['pear', 'rectangle']"
+Midi Skirt,Casual one-piece for everyday wear,tops,top,casual,oversized,winter,female,['white'],https://example.com/images/item_161.jpg,"['pear', 'apple', 'inverted_triangle']"
+Linen Shirt,Classic blue jacket with buttons,tops,skirt,casual,oversized,fall,unisex,"['beige', 'purple']",https://example.com/images/item_162.jpg,"['inverted_triangle', 'hourglass', 'rectangle']"
+Tank Top,Short length trendy top,outerwear,jumpsuit,minimalist,flared,fall,unisex,"['white', 'blue', 'purple']",https://example.com/images/item_163.jpg,"['hourglass', 'inverted_triangle', 'pear']"
+Cardigan Sweater,Casual one-piece for everyday wear,jumpsuits,jacket,trendy,relaxed,fall,female,['white'],https://example.com/images/item_164.jpg,['inverted_triangle']
+V-Neck Tee,Fitted at the waist with flare below,outerwear,top,formal,fitted,fall,unisex,"['black', 'pink']",https://example.com/images/item_165.jpg,"['hourglass', 'inverted_triangle', 'apple']"
+Wide-Leg Trousers,Casual one-piece for everyday wear,outerwear,hoodie,vintage,oversized,summer,male,"['purple', 'gray']",https://example.com/images/item_166.jpg,"['apple', 'inverted_triangle']"
+Wide-Leg Trousers,Full-length dress for formal wear,bottoms,top,trendy,A-line,spring,unisex,"['pink', 'green']",https://example.com/images/item_167.jpg,['apple']
+Tank Top,Fitted at the waist with flare below,bottoms,hoodie,street,fitted,summer,female,"['gray', 'navy']",https://example.com/images/item_168.jpg,"['apple', 'pear']"
+Wide-Leg Trousers,Full-length dress for formal wear,jumpsuits,shirt,boho,A-line,spring,female,"['red', 'beige']",https://example.com/images/item_169.jpg,['hourglass']
+Pencil Skirt,Casual one-piece for everyday wear,tops,shirt,trendy,straight,fall,male,"['pink', 'green']",https://example.com/images/item_170.jpg,"['apple', 'hourglass']"
+Pencil Skirt,Open front soft knit sweater,tops,skirt,chic,straight,winter,unisex,"['pink', 'beige']",https://example.com/images/item_171.jpg,"['inverted_triangle', 'rectangle', 'pear']"
+Tank Top,Breathable button-up for summer days,jumpsuits,top,formal,relaxed,summer,female,['gray'],https://example.com/images/item_172.jpg,"['inverted_triangle', 'rectangle', 'hourglass']"
+Peplum Top,Denim jeans with narrow fit,jumpsuits,blouse,casual,fitted,summer,male,['pink'],https://example.com/images/item_173.jpg,"['hourglass', 'pear', 'rectangle']"
+Denim Jacket,Lightweight top with floral prints,bottoms,pants,trendy,oversized,fall,male,"['blue', 'green', 'pink']",https://example.com/images/item_174.jpg,"['inverted_triangle', 'pear', 'apple']"
+Relaxed Jumpsuit,Sleeveless casual tank,dresses,jacket,trendy,relaxed,summer,female,['black'],https://example.com/images/item_175.jpg,['pear']
+Oversized Hoodie,High-rise trousers with wide leg,jumpsuits,jeans,formal,straight,winter,unisex,['red'],https://example.com/images/item_176.jpg,"['pear', 'apple']"
+Cargo Pants,Comfortable cotton shorts,tops,shirt,boho,fitted,fall,male,"['blue', 'black', 'purple']",https://example.com/images/item_177.jpg,"['inverted_triangle', 'apple']"
+Tank Top,Short length trendy top,bottoms,top,street,straight,summer,male,"['red', 'navy']",https://example.com/images/item_178.jpg,"['inverted_triangle', 'rectangle']"
+Linen Shirt,Sleeveless casual tank,jumpsuits,top,vintage,relaxed,fall,unisex,"['blue', 'purple']",https://example.com/images/item_179.jpg,"['apple', 'hourglass']"
+Boho Floral Blouse,Open front soft knit sweater,bottoms,shirt,chic,A-line,fall,male,['pink'],https://example.com/images/item_180.jpg,"['pear', 'hourglass', 'apple']"
+Sweat Shorts,Cozy pullover with front pockets,bottoms,jeans,trendy,flared,spring,unisex,['gray'],https://example.com/images/item_181.jpg,"['hourglass', 'apple', 'inverted_triangle']"
+Sweat Shorts,Classic blue jacket with buttons,bottoms,blouse,casual,straight,spring,male,"['beige', 'red', 'green']",https://example.com/images/item_182.jpg,['inverted_triangle']
+Maxi Dress,Cozy pullover with front pockets,dresses,hoodie,casual,straight,spring,male,['black'],https://example.com/images/item_183.jpg,"['inverted_triangle', 'pear', 'rectangle']"
+Maxi Dress,Fitted at the waist with flare below,outerwear,blouse,vintage,flared,winter,male,"['gray', 'purple']",https://example.com/images/item_184.jpg,['hourglass']
+Pencil Skirt,Professional office skirt,dresses,shirt,casual,fitted,spring,unisex,"['navy', 'beige']",https://example.com/images/item_185.jpg,"['pear', 'rectangle']"
+Denim Jacket,Denim jeans with narrow fit,tops,blouse,boho,fitted,summer,female,"['black', 'pink']",https://example.com/images/item_186.jpg,"['hourglass', 'inverted_triangle', 'pear']"
+Wide-Leg Trousers,Fitted at the waist with flare below,bottoms,jacket,formal,A-line,fall,male,"['pink', 'purple', 'black']",https://example.com/images/item_187.jpg,['hourglass']
+V-Neck Tee,Casual cotton V-neck,tops,jacket,formal,oversized,winter,female,"['black', 'gray']",https://example.com/images/item_188.jpg,"['hourglass', 'pear']"
+Relaxed Jumpsuit,Relaxed fit with utility pockets,bottoms,blouse,vintage,straight,winter,male,"['gray', 'navy']",https://example.com/images/item_189.jpg,"['apple', 'rectangle', 'pear']"
+Oversized Hoodie,Full-length dress for formal wear,jumpsuits,jumpsuit,minimalist,oversized,winter,female,"['gray', 'white', 'red']",https://example.com/images/item_190.jpg,"['apple', 'hourglass']"
+Oversized Hoodie,Classic blue jacket with buttons,dresses,jeans,formal,fitted,fall,unisex,"['gray', 'beige']",https://example.com/images/item_191.jpg,['hourglass']
+Maxi Dress,Professional office skirt,jumpsuits,blouse,street,flared,summer,male,"['purple', 'navy', 'beige']",https://example.com/images/item_192.jpg,"['rectangle', 'hourglass', 'pear']"
+Wide-Leg Trousers,Short length trendy top,dresses,jacket,boho,flared,spring,unisex,"['blue', 'green']",https://example.com/images/item_193.jpg,"['rectangle', 'inverted_triangle']"
+Cargo Pants,Full-length dress for formal wear,tops,skirt,minimalist,A-line,summer,unisex,"['blue', 'black']",https://example.com/images/item_194.jpg,"['pear', 'hourglass']"
+Boho Floral Blouse,Open front soft knit sweater,outerwear,top,chic,relaxed,fall,male,['gray'],https://example.com/images/item_195.jpg,['apple']
+Relaxed Jumpsuit,Professional office skirt,dresses,jacket,vintage,flared,spring,female,"['blue', 'green', 'beige']",https://example.com/images/item_196.jpg,"['apple', 'pear']"
+Turtleneck Sweater,Flowy mid-length skirt,dresses,skirt,street,oversized,spring,female,"['white', 'blue']",https://example.com/images/item_197.jpg,"['pear', 'apple']"
+Crop Top,Breathable button-up for summer days,tops,skirt,boho,flared,spring,male,"['purple', 'white']",https://example.com/images/item_198.jpg,['hourglass']
+Crop Top,Open front soft knit sweater,dresses,shirt,minimalist,oversized,fall,male,"['navy', 'blue']",https://example.com/images/item_199.jpg,"['apple', 'inverted_triangle']"
+Maxi Dress,Short length trendy top,dresses,jacket,boho,relaxed,fall,male,"['black', 'navy']",https://example.com/images/item_200.jpg,['rectangle']
