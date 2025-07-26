@@ -16,3 +16,5 @@ app.include_router(skintone.router, prefix='/api')
 import logging
 
 logging.basicConfig(level=logging.DEBUG)
+import mediapipe as mp
+print(mp.__version__)
