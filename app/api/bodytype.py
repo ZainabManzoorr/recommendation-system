@@ -37,14 +37,14 @@ class UserMeasurement(BaseModel):
     hips: float
     shoulder: float
     sleeve: float
-    gender: Literal["Male", "Female"]
+    gender: Literal["male", "female"]
 
 
 @router.post("/predict-body-type")
 async def predict_body_type(user_data: UserMeasurement):
     try:
-        # Encode gender: Male=0, Female=1
-        gender_type_encoded = 0 if user_data.gender == "Male" else 1
+        # Encode gender: male=0, female=1
+        gender_type_encoded = 0 if user_data.gender == "male" else 1
 
         input_data = [[
             user_data.height,

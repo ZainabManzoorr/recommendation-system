@@ -1,11 +1,11 @@
 name,description,style_tag,cut_type,category,gender,weather_suitability,suitable_body_types
-Slim Fit Shirt,A fitted shirt for formal occasions.,Formal,Slim Fit,Shirt,Male,Mild,Rectangle|Inverted Triangle
+Slim Fit Shirt,A fitted shirt for formal occasions.,Formal,Slim Fit,Shirt,male,Mild,Rectangle|Inverted Triangle
 Loose Hoodie,A relaxed hoodie perfect for winter.,Casual,Loose,Hoodie,Unisex,Cold,Apple|Rectangle
-Bodycon Dress,Tight dress highlighting curves.,Party,Fitted,Dress,Female,Hot,Hourglass|Pear
-Maxi Dress,Flowy maxi dress for summer days.,Casual,Loose,Dress,Female,Hot,Pear|Hourglass
-High-Waisted Trousers,Elegant high-rise pants for a sharp look,"elegant, formal",Structured,Bottoms,Female,Winter,"Hourglass,Pear"
-Mom Jeans,Relaxed-fit jeans for casual comfort,"casual, denim",Loose,Bottoms,Female,All,"Apple,Rectangle"
-A-Line Mini Skirt,Short A-line skirt perfect for summer outings,"chic, playful",Fitted,Bottoms,Female,Summer,"Hourglass,Pear"
-Slim Fit Shirt,Crisp slim-fit shirt ideal for formal events,"formal, business",Slim Fit,Tops,Male,All,"Rectangle,Inverted Triangle"
+Bodycon Dress,Tight dress highlighting curves.,Party,Fitted,Dress,female,Hot,Hourglass|Pear
+Maxi Dress,Flowy maxi dress for summer days.,Casual,Loose,Dress,female,Hot,Pear|Hourglass
+High-Waisted Trousers,Elegant high-rise pants for a sharp look,"elegant, formal",Structured,Bottoms,female,Winter,"Hourglass,Pear"
+Mom Jeans,Relaxed-fit jeans for casual comfort,"casual, denim",Loose,Bottoms,female,All,"Apple,Rectangle"
+A-Line Mini Skirt,Short A-line skirt perfect for summer outings,"chic, playful",Fitted,Bottoms,female,Summer,"Hourglass,Pear"
+Slim Fit Shirt,Crisp slim-fit shirt ideal for formal events,"formal, business",Slim Fit,Tops,male,All,"Rectangle,Inverted Triangle"
 Denim Jacket,Classic medium-wash denim jacket,"casual, classic",Structured,Outerwear,Unisex,"Spring,Autumn",All
-Bodycon Midi Dress,Curve-hugging midi-length dress,"party, sexy",Fitted,Dresses,Female,Summer,Hourglass
+Bodycon Midi Dress,Curve-hugging midi-length dress,"party, sexy",Fitted,Dresses,female,Summer,Hourglass

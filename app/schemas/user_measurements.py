@@ -11,10 +11,10 @@ class UserMeasurement(BaseModel):
     hips: float = Field(..., gt=10, lt=80, description="Hips in inches (10–80)")
     shoulder: float = Field(..., gt=10, lt=30, description="Shoulder width in inches (10–30)")
     sleeve: float = Field(..., gt=10, lt=40, description="Sleeve length in inches (10–40)")
-    gender: Literal["Male", "Female"] = Field(..., description="Gender as string: 'Male' or 'Female'")
+    gender: Literal["male", "female"] = Field(..., description="Gender as string: 'male' or 'female'")
     
     def get_encoded_type(self):
-        return 0 if self.gender == "Male" else 1
+        return 0 if self.gender == "male" else 1
     
     @field_validator(
         "height", "weight", "chest", "waist", "hips", "shoulder", "sleeve"
